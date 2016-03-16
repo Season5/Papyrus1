@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mwongera/Papyrus/app/build/intermediates/res/merged/debug/menu/main2.xml",
+        "source": "/home/mwongera/Papyrus/app/src/main/res/menu/main2.xml"
+    },
+    {
+        "merged": "/home/mwongera/Papyrus/app/build/intermediates/res/merged/debug/menu/activity_main2_drawer.xml",
+        "source": "/home/mwongera/Papyrus/app/src/main/res/menu/activity_main2_drawer.xml"
+    }
+]
